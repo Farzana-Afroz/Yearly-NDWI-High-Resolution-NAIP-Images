@@ -1,1 +1,1 @@
-# Yearly-NDWI-High-Resolution-NAIP-Images-
+# Yearly-NDWI-High-Resolution-NAIP-Images
